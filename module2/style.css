@@ -13,14 +13,14 @@ body{
 #section1{
 	background-color: #9932CC;
 	font-size: 25%;
-	border: 3px solid black;
+	border: 1px solid black;
 	margin: 10px;
 	float:left;
 	position: relative;
 }
 #section2{
 	background-color: #8FBC8F;
-	border: 3px solid black;
+	border: 1px solid black;
 	font-size: 25%;
 	margin: 10px;
 	float:left;
@@ -29,7 +29,7 @@ body{
 
 #section3{
 	background-color: #2F4F4F;
-	border: 3px solid black;
+	border: 1px solid black;
 	font-size: 25%;
 	margin: 10px;
 	float:left;
@@ -41,8 +41,8 @@ body{
 	font-style: bold;
 	text-align: center;
 	margin: 0;
-	border-bottom:3px solid black;
-	border-left:3px solid black;
+	border-bottom:1px solid black;
+	border-left:1px solid black;
 	width: 25%;
 	height: 40px;
 	position: absolute;
@@ -53,8 +53,8 @@ body{
 	background-color: #9932CC;
 	font-size: 125%;
 	margin: 0;
-	border-bottom:3px solid black;
-	border-left:3px solid black;
+	border-bottom:1px solid black;
+	border-left:1px solid black;
 	width: 25%;
 	height: 40px;
 	position: absolute;
@@ -65,8 +65,8 @@ body{
 	background-color: #8FBC8F;
 	font-size: 125%;
 	margin: 0;
-	border-bottom:3px solid black;
-	border-left:3px solid black;
+	border-bottom:1px solid black;
+	border-left:1px solid black;
 	width: 25%;
 	height: 40px;
 	position: absolute;
